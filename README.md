@@ -7,8 +7,10 @@
 
 ## :point_right: Description
 
-<h3> Official  University   Archive  is  a  web  application  functions  as  archiving  system   for   university’s  official  
+<h3> Official  University   Archive  is  a  web  application  functions  as  archiving  system   for   university’s  official
+  
 documents   which   offers   five   main   services: Storing, classifying, adding, editing and searching for a  
+  
 particular document or  set of documents in the most efficient way possible. 
 </h3> 
 

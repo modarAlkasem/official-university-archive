@@ -1,0 +1,13 @@
+.SideDrawer{
+    height:100%;
+    width:248px;
+    position: fixed;
+    background-color: #222d32;
+    margin-top: 50px;
+    right: 0px;
+    
+
+    transition:0.5s;
+    transition-property: right;
+
+}

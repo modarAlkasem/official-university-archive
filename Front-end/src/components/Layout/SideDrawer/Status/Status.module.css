@@ -1,0 +1,54 @@
+.Status{
+    height:65px;
+    box-sizing: border-box;
+    margin-top:25px;
+    margin:10px;
+    
+
+
+}
+.Status img{
+    height:45px;
+    width:45px;
+    position: absolute;
+    right: 20px;
+    top:40px;
+   
+
+}
+.Status .UserName{
+    font-weight: bold;
+    color:#b8c7ce;
+    text-decoration: none;
+    position: absolute;
+    right: 80px;
+    top:40px;
+    font-size: 16px;
+    transition: 0.5s;
+    transition-property: color;
+
+
+}
+.Status .UserName:hover{
+    color:#3c763d;
+}
+
+
+.Status .OnlineStatus{
+    display: inline-block;
+    font-size: 11px;
+    position: absolute;
+    right:128px;
+    top:41px;
+    cursor: pointer;
+
+}
+.Status .OnlineStatus .OnlineText{
+    font-size:14px;
+    color:#fff;
+    margin-right: 6px;
+
+}
+.Status .OnlineStatus .OnlineDot{
+    font-size:inherit;
+}

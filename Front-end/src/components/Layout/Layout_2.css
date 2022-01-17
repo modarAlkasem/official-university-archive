@@ -1,0 +1,16 @@
+#check:checked ~ div[class ^="SideDrawer_SideDrawer"]{
+    right: -200px;
+}
+
+#check:checked ~ div[class^="SideDrawer_SideDrawer"] i[class*="NavItems-Icons"]{
+    right:200px;
+    font-size:18px;
+  
+
+
+}
+#check{
+    display: none;
+}
+
+  

@@ -1,0 +1,75 @@
+.Category{
+
+    margin:10px 10px 10px 10px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    border-radius: 2px;
+    color:#fff !important;
+    height:27vh;
+    
+    margin-left:30px;
+}
+.Category.Bg_aqua {
+    background-color: #00c0ef!important ;
+}
+.Category.Bg_green {
+    background-color: #00a65a;
+}
+.Category h3{
+    float:right;
+    font-size:38px;
+    font-weight: bold;
+    z-index:5;
+    margin: 0 0 10px 0;
+    padding:0;
+}
+.Category p{
+    position: absolute;
+    top:50px;
+   right:8px;
+   font-size: 15px;;
+
+
+
+}
+
+.Category i[class*='archive']{
+    position: absolute;
+    font-size: 90px;
+    color:rgba(0,0,0,0.15);
+    top:10px;
+    left:10px;
+    z-index:0;
+    transition: font-size 0.5s;
+
+
+}
+.Category .Part2{
+    position: absolute;
+    bottom: 0px;
+    height:20px;
+   
+    text-align: center;
+    width: 100%;
+    left:0;
+    height: 4vh;
+    
+
+}
+.Category .Part2 a.MoreInfo{
+    text-decoration: none;
+    display: block;
+   color: rgba(255,255,255,0.8);
+   z-index: 10;
+   background: rgba(0,0,0,0.1);
+   width: 100%;
+   height: 100%;
+   padding:4px 0;
+}
+.Category .Part2 a.MoreInfo i{
+    position: relative;
+    right:55px;
+    top:2px;
+}
+
+
+

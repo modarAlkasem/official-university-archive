@@ -1,0 +1,119 @@
+.CategoryHeader{
+    height:10%;
+    padding-bottom:9px;
+    margin:40px 0 20px 0;
+}
+
+.Content .RightSide {
+    position: absolute;
+    right:0px;
+
+} 
+.Content .RightSide a{
+    text-decoration: none;
+    font-size:36px;
+    font-weight:500;
+    line-height: 1.1;
+    font-family: inherit;
+     color:#333;
+
+}
+.Content .RightSide a img{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    right: 0;
+}
+.Content .RightSide a span{
+    position: absolute;
+    right: 8%;
+}
+
+.Content .LeftSide .SearchingByList{
+    position: absolute;
+    left:0;
+    width: 40px;
+    height:34px;
+ 
+ 
+    width:40px;
+    height:34px;
+    margin: 0;
+    display: inline-block;
+
+
+}
+.Content .LeftSide .SearchingByList button{
+
+    padding:0;
+    border:none;
+    width:100%;
+    height:100%; 
+  
+   
+    
+ 
+}
+.Content .LeftSide .SearchingByList button img{
+    width:100%;
+    height:100%; 
+    border-radius:4px 0px 0px 4px;
+
+
+   
+}
+.Content .LeftSide .SearchingByList ul li{
+
+    width:100%;
+    height:100%; 
+    margin-bottom: 10px;
+    cursor: pointer;
+
+    
+
+}
+
+.Content .LeftSide .SearchingByList ul li img{
+    width:40px;
+    height:34px;
+    transition: width 0.5s , height 0.5s;
+}
+.Content .LeftSide .SearchingByList ul li img:hover{
+    width:42px;
+    height:36px;
+}
+.Content .LeftSide .InputGroupBtn .SearchingBtn{
+
+    position: absolute;
+    right: 0;
+    left:39px; 
+    width: 40px;
+    height:34px;
+    border-radius: 0px;
+    border:1px solid #ccc;
+}
+.Content .LeftSide .InputGroupBtn .SearchingBtn i{
+    position: relative;
+    top:3px;
+}
+.Content .LeftSide .SearchingBox{
+    position: absolute;
+    width: 55%;
+    right: 0;
+    left:79px; 
+    height:34px;
+    border-radius:0px 4px 4px 0px;
+    background-color: #fff;
+    padding:6px 14px;
+
+    outline: none;
+    box-sizing:border-box;
+    border:1px solid #ccc;
+    box-shadow:inset 0 1px 1px rgba(0, 0, 0, .075);
+    transition:border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+.Content .LeftSide .SearchingBox:focus{
+    border:1px solid rgb(51, 159, 248)!important ;
+    box-shadow:  0 0 1px 1px rgb(51, 159, 248) !important;
+}
+

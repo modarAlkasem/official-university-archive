@@ -1,0 +1,47 @@
+.ContentTable{
+    height:50%;
+    margin:15px 0;
+    
+}
+.ContentTable .Content{
+    overflow-x: auto;
+}
+.ContentTable .Content table ,
+.ContentTable .Content table th , 
+.ContentTable .Content table td {
+    border:1px solid #ddd;
+    color: #337ab7;
+}
+.ContentTable .Content table{
+    width:100%;
+    border-collapse: collapse;
+}
+.ContentTable .Content table th {
+    padding: 8px;
+    
+
+}
+.ContentTable .Content table th{
+    text-align: center;
+}
+.ContentTable .Content table tr:nth-child(even){
+    background-color: #f9f9f9;
+}
+.ContentTable .Content table tfoot td span{
+    float:right;
+    color: #333;
+}
+
+   
+.ContentTable .Content table td a{
+    width:100%;
+    padding: 8px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.ContentTable .Content table td a:hover{
+   
+      color: #3171a8;
+
+}

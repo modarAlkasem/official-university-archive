@@ -1,0 +1,30 @@
+.HeadingBar{
+    height:50px;
+    width:100%;
+    background-color:#f39c12;
+    position: fixed;
+    z-index: 2;
+    
+    
+}
+.HeadingBar label{
+    position: fixed;
+    right:248px;
+    color:#fff;
+    font-size: 16px;
+    top:px;
+    cursor:pointer;
+    padding-top:14px;
+     padding-bottom:14px;
+     width: 50px;
+     display: inline-block;
+     box-sizing: border-box;
+     text-align: center;
+
+    
+}
+.HeadingBar label:hover{
+    background-color: #e08e0b;
+    
+}
+

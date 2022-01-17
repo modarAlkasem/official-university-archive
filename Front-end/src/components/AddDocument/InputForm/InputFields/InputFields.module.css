@@ -1,0 +1,42 @@
+.ViewEdit{
+    margin-top: 10vh;
+}
+.DivVE{
+    padding-bottom: 40px;
+}
+.DocDateDiv {
+    margin-top: 13px;
+}
+.DocContentDiv , .DocNotesDiv{
+    margin-bottom: 46px;
+   
+}
+.DocContentDiv textarea , .DocNotesDiv textarea{
+    font-size: 12px;
+    resize: none;
+}
+.DocDateDiv table td,
+.DocRecDateDiv table td,
+.DocUploadViewDiv table td{
+    padding-left:8px;
+}
+.DocUploadViewDiv table td input.DocUploadFieldVE{
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+.DocUploadViewDiv table td button span i{
+    position: relative;
+    top:3px;
+    left:3px;
+}
+
+.CalendarComp{
+    position: absolute;
+    z-index: 1;
+    right:200px;
+    top:40px;
+    display: none;
+    
+    
+}

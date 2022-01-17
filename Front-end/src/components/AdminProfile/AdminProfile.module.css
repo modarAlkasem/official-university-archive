@@ -1,0 +1,117 @@
+
+.AdminProfile .Welcome{
+    height:5vh;
+    color:#000;
+    font-size: 36px;
+    vertical-align: middle;
+    margin: 40px 0 20px 0;
+    
+
+}
+
+
+.AdminProfile .MainPart .InputNewUser .InputNewUserHeader{
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    font-size: 16px;
+    background-image: linear-gradient(to bottom, #d9edf7 0%, #c4e3f3 100%);
+}
+
+.AdminProfile .MainPart .InputNewUser .InputNewUserHeader span{
+    margin-left:5px;
+    position: relative;
+    top:4px;
+}
+.AdminProfile .MainPart .InputNewUser {
+    margin-bottom: 20px;
+    margin-top:5.5vh;
+}
+.AdminProfile .MainPart .InputNewUser .InputNewUserFields{
+    background-color: white;
+    padding: 15px;
+}
+.AdminProfile .MainPart .InputNewUser .InputNewUserFields .InputNewUserBtnDiv {
+    text-align: center;
+}
+
+.AdminProfile .MainPart .InputNewUser #validationInputNewUserEleId{
+    display: none;
+    
+}
+/*///////////////////////*/
+.AdminProfile .MainPart .userDetails .userDetailsHeader{
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    font-size: 16px;
+    background-image: linear-gradient(to bottom, #d9edf7 0%, #c4e3f3 100%);
+}
+
+
+.AdminProfile .MainPart .userDetails .userDetailsHeader span{
+    margin-left:5px;
+    position: relative;
+    top:4px;
+}
+.AdminProfile .MainPart .userDetails {
+    margin-top:6vh;
+    margin-bottom: 20px;
+}
+.AdminProfile .MainPart .userDetails .userDetailsFields{
+    background-color: white;
+    padding: 15px;
+}
+.AdminProfile .MainPart .userDetails .userDetailsFields .userDetailsBtnDiv {
+    text-align: center;
+}
+
+.AdminProfile .MainPart .userDetails #validationUserDetailsEleId{
+    display: none;
+    
+}
+/*///////////////////////*/
+.AdminProfile .MainPart .DeleteUser .DeleteUserHeader{
+    color: white;
+    background-color: #c12e2a;
+    border-color: #c12e2a;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    font-size: 16px;
+    background-image: linear-gradient(to bottom, #d9534f 0%, #c12e2a 100%);
+}
+
+.AdminProfile .MainPart .DeleteUser .DeleteUserHeader span{
+    margin-left:5px;
+    position: relative;
+    top:4px;
+}
+.AdminProfile .MainPart .DeleteUser {
+    
+    margin-bottom: 20px;
+    position: relative;
+    bottom: 12vh;
+    left: 0;
+
+}
+.AdminProfile .MainPart .DeleteUser .DeleteUserMainPart{
+    background-color: white;
+    padding: 15px;
+}
+.AdminProfile .MainPart .DeleteUser .DeleteUserMainPart .DeleteUserBtnDiv {
+    text-align: center;
+}
+.AdminProfile .MainPart .DeleteUser #deleteUserVal{
+    display: none;
+    
+}

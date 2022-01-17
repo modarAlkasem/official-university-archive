@@ -1,0 +1,32 @@
+.LogoMain{
+    position: fixed;
+    right:0px;
+    text-decoration: none;
+
+}
+.LogoMain:hover , .LogoMain:visited , .LogoMain:active , .LogoMain:link{
+    text-decoration: none;
+    color:#fff;
+   
+}
+
+.Logo{
+    margin: 0;
+    text-transform: capitalize;
+   
+    
+
+    font-size:20px;
+    color:#fff;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-right:5px;
+     padding-bottom: 13px;
+
+
+    
+}
+.Logo:hover{
+    background-color: #e08e0b;
+   
+}

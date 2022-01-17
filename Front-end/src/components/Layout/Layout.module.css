@@ -1,0 +1,15 @@
+.Content{
+    display: block;
+    height:92vh;
+
+    position: relative;
+    top:50px;
+    margin:0px;
+    width:78vw;
+    padding:10px 10px 10px 10px;
+    box-sizing: border-box;
+    transition: width 0.5s;
+   
+    
+  
+}

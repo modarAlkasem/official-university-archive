@@ -1,0 +1,45 @@
+.CategoryHeader{
+    height:10%;
+    padding-bottom:9px;
+    margin:40px 0 20px 0;
+}
+
+.Content .RightSide {
+    position: absolute;
+    right:0px;
+
+} 
+.Content .RightSide a.CatLink{
+    text-decoration: none;
+    font-size:36px;
+    font-weight:500;
+    line-height: 1.1;
+    font-family: inherit;
+     color:#333;
+
+}
+.Content .RightSide a.CatLink img{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    right: 0;
+}
+.Content .RightSide a.CatLink span{
+    position: absolute;
+    right: 8%;
+}
+.Content .RightSide a.AddItemBtn{
+    position: absolute;
+    right:60%;
+    top:6px;
+    background-image: linear-gradient(to bottom, #5cb85c 0%, #419641 100%);
+    
+}
+.Content .RightSide a.AddItemBtn:hover{
+    background-image: linear-gradient(to bottom, #5cb85c 0%, #3b703b 100%);
+}
+.Content .RightSide a.AddItemBtn i{
+    margin-left:5px;
+    position: relative;
+    top:3px;
+}

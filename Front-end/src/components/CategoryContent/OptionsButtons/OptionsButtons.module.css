@@ -1,0 +1,77 @@
+.OptionsButtons{
+    height:9%;
+}
+.OptionsButtons .Content {
+    position: absolute;
+    right:0px;
+
+} 
+.OptionsButtons .Content .OptionsGroupBtn{
+    position: absolute;
+    right:0px;
+    width:80%;
+    text-align: right;
+}
+.OptionsButtons .Content .OptionsGroupBtn button , 
+.OptionsButtons .Content .OptionsGroupBtn select
+{
+     height:47px;
+    width:26%;
+    
+    padding:10px 16px;
+    box-sizing: border-box;
+    font-size: 18px;
+    line-height: 1.3333333;
+    background-image: linear-gradient(to bottom, #fff 0%, #e0e0e0 100%);
+    border:1px solid #ccc;
+    color: #333;
+    background-color: #fff;
+    white-space: nowrap;
+    
+
+}
+.OptionsButtons .Content .OptionsGroupBtn a{
+    height:47px;
+    width:26%;
+    padding:10px 16px;
+    box-sizing: border-box;
+    font-size: 18px;
+    line-height: 1.3333333;
+    white-space: nowrap;
+    background-image: linear-gradient(to bottom, #5cb85c 0%, #419641 100%);
+    color:#fff;
+    text-decoration: none;
+
+}
+.OptionsButtons .Content .OptionsGroupBtn a i   {
+    margin-left: 3px;
+}
+
+.OptionsButtons .Content .OptionsGroupBtn button:hover , 
+.OptionsButtons .Content .OptionsGroupBtn select:hover
+{
+    background-image: linear-gradient(to bottom, rgb(170, 168, 168) 0%, #e0e0e0 100%);
+}
+.OptionsButtons .Content .OptionsGroupBtn a.AddNewDoc:hover {
+    background-image: linear-gradient(to bottom, #5cb85c 0%, #3b703b 100%);
+}
+
+.OptionsButtons .Content .OptionsGroupBtn select{
+  
+  position: relative;
+  top:1px;
+  cursor: pointer;
+}
+.OptionsButtons .Content .OptionsGroupBtn .AddNewDoc{
+
+    border-radius:6px 0px 0px 6px;
+    
+}
+
+
+
+.OptionsButtons .Content .OptionsGroupBtn .ShowAllBtn{
+
+    border-radius:0px 6px 6px 0px;
+}
+

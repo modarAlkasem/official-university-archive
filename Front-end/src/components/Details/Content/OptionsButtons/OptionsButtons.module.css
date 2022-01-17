@@ -1,0 +1,28 @@
+
+.OptionsButtons {
+    margin-top: 10vh;
+    position: sticky;
+    top:55px;
+}
+
+.OptionsButtons .SaveChangesBtn{
+    width:100%;
+    margin-bottom: 5px;
+    background-image: linear-gradient(to bottom, #5cb85c 0%, #419641 100%);
+    border-color: #3e8f3e; 
+    font-size: 18px;
+    vertical-align: middle;
+    height:43px ;
+
+}
+.OptionsButtons .SaveChangesBtn:hover{
+
+ background-image: linear-gradient(to bottom, #5cb85c 0%, #358035 100%);
+}
+
+.OptionsButtons .SaveChangesBtn  span i{
+    margin-left:2px;
+
+}
+
+

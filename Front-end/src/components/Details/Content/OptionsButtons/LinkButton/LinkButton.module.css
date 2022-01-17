@@ -1,0 +1,19 @@
+.LinkButton{
+    width:100% ;
+    background-image: linear-gradient(to bottom, #fff 0%, #e0e0e0 100%);
+    border-color: #ccc;
+    height:43px ;
+    margin-bottom: 1px;
+
+    font-size: 18px;
+
+    vertical-align: middle;
+}
+
+.LinkButton:hover{
+    background-image: linear-gradient(to bottom, #fff 0%, #ccc3c3 100%);    
+}
+
+.LinkButton span i{
+    margin-left:2px;
+}

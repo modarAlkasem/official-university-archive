@@ -1,0 +1,14 @@
+.ContentHeader .Content h3.ContentHeading {
+    float:right;
+    font-size:24px;
+    text-transform: capitalize;
+}
+.ContentHeader .Content h3.ContentHeading span{
+    float:right;
+    margin-left:10px;
+    font-size:15px;
+    font-weight: 300;
+    position: relative;
+    top: 9px;
+    
+}

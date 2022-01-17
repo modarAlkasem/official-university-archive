@@ -1,0 +1,89 @@
+.NavItems{
+    margin-top:20px;
+}
+
+.NavItems .Header{
+    background-color: #1a2226;
+    color:#4b646f;
+    display: block;
+    text-transform: uppercase;
+    padding:10px 15px 10px 25px;
+    text-align: right;
+    font-size: 16px;
+
+} 
+
+.NavItems a{
+    display: block;
+   text-align: right;
+    text-decoration: none;
+    color:#b8c7ce;
+    padding:12px 15px 12px 5px;
+    transition:0.5s;
+    /* transition-property: border; */
+
+}
+
+.NavItems a:hover{
+    border-right: 4px solid #f39c12;
+    color:#fff;
+}
+.NavItems a i{
+    float: right;
+    margin-left: 10px;
+    position: relative;
+    top:3px;
+    
+}
+.NavItems span.settings{
+    display: block;
+    text-align: right;
+     text-decoration: none;
+     color:#b8c7ce;
+     padding:12px 15px 12px 5px;
+     transition:0.5s;
+
+}
+.NavItems span.settings:hover{
+    border-right: 4px solid #f39c12;
+    color:#fff;
+}
+.NavItems span.settings i{
+    float: right;
+    margin-left: 10px;
+    position: relative;
+    top:3px;
+}
+.NavItems span.settings label{
+    font-weight: 400;
+    display: block;
+}
+.NavItems span.settings label:hover{
+    cursor:pointer;
+   
+
+}
+.Logout_btn{
+    float: right;
+    opacity: 0;
+    visibility: hidden;
+    width: 100%;
+    padding:4px;
+    border-radius: 4px;;
+    background-color: #265a88;
+    position: relative;
+    right:-6px;
+    transition: opacity 600ms, visibility 600ms;
+    margin-top: 10px;
+  
+    
+
+}
+.Logout_btn:hover{
+    background-color: #1f507a;  
+}
+input[type="checkbox"]{
+    display:none;
+}
+
+

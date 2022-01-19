@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://gitlab.com/modar-projects/official-university-archive" title="Official University Archive">
-      <h1 align="center" font-size = "40px"> Official University Archive </h1> 
+  <a href="https://github.com/modarAlkasem/official-university-archive" title="Official University Archive">
+      <h1 align="center" > Official University Archive </h1> 
   </a>
 </p>
 
@@ -15,7 +15,7 @@ particular document or  set of documents in the most efficient way possible.
 
 <h2 align="center">🌐 Links 🌐</h2>
 <p align="center">
-    <a href="https://gitlab.com/modar-projects/official-university-archive" title="Official University Archive">📂 Repo</a>
+    <a href="https://github.com/modarAlkasem/official-university-archive" title="Official University Archive">📂 Repo</a>
     ·
    
 </p>
@@ -39,71 +39,71 @@ particular document or  set of documents in the most efficient way possible.
 
 
 ## 📂 Screen Shots
- #### 1. Signin : Here where manager or employee can sign in into Official University Archive.
+ <h4> 1. Signin : Here where manager or employee can sign in into Official University Archive.</h4>
 
 <p align="center">
-  <a href="/ScreenShots/1-signin.png" title="screenShot-home">
-    <img src="/ScreenShots/1-signin.png "width="80%" alt="screenShot-signin"/>
+  <a href="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/1-signin.png" title="screenShot-signin">
+    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/1-signin.png " width="100%" alt="screenShot-signin"/>
   </a>
 </p>
 
 ----
- #### 2. Dashboard : Here where user can see the main categories existed in system , go to individual page to each   
-  #### category and see how many documents for each category.
+ <h4> 2. Dashboard : Here where user can see the main categories existed in system , go to individual page to each   
+   category and see how many documents for each category. </h4>
 
 <p align="center">
-  <a href="/ScreenShots/2-dashboard.png" title="screenShot-dashboard">
-    <img src="/ScreenShots/2-dashboard.png "width="80%" alt="screenShot-signup"/>
+  <a href="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/2-dashboard.png" title="screenShot-dashboard">
+    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/2-dashboard.png " width="100%" alt="screenShot-dashboard"/>
   </a>
 </p>
 
 ----
- #### 3. Category Content : Here where  user  can  browse  the  documents  of  specific category  , show  documents 
-####  of  specific  subcategory  ,  search  about  documents based on ID or Content of document , go to document’s  
-#### details and edit page or go to add  new document page.
+ <h4> 3. Category Content : Here where  user  can  browse  the  documents  of  specific category  , show  documents 
+  of  specific  subcategory  ,  search  about  documents based on ID or Content of document , go to document’s  
+ details and edit page or go to add  new document page.</h4>
 
 
 <p align="center">
-  <a href="/ScreenShots/4-scientific-body-docs.png" title="screenShot-categoryContent">
-    <img src="/ScreenShots/4-scientific-body-docs.png "width="80%" alt="screenShot-categoryContent"/>
+  <a href="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/4-scientific-body-docs.png" title="screenShot-categoryContent">
+    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/4-scientific-body-docs.png " width="100%" alt="screenShot-categoryContent"/>
   </a>
 </p>
 
 ----
- #### 4. Show Details and Edit : Here where user can show details of specific document and edit its data.
+ <h4> 4. Show Details and Edit : Here where user can show details of specific document and edit its data.</h4>
 
 <p align="center">
-  <a href="/ScreenShots/5-details.png" title="screenShot-details">
-    <img src="/ScreenShots/5-details.png"width="80%" alt="screenShot-details"/>
+  <a href="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/5-details.png" title="screenShot-details">
+    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/5-details.png" width="100%" alt="screenShot-details"/>
   </a>
 </p>
 
 ----
- #### 5. Add New Document: Here where user can add a new document..
+ <h4> 5. Add New Document: Here where user can add a new document. </h4>
 
 <p align="center">
-  <a href="/ScreenShots/6-add-document.png" title="screenShot-addDocument">
-    <img src="/ScreenShots/6-add-document.png"width="80%" alt="screenShot-addDocument"/>
+  <a href="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/6-add-document.png" title="screenShot-addDocument">
+    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/6-add-document.png" width="100%" alt="screenShot-addDocument"/>
   </a>
 </p>
 
 ----
- #### 6. Admin Profile : Here where admin can show ,  edit his information , add new user as admin or employee
- ### and delete existed user by his user name.
+ <h4> 6. Admin Profile : Here where admin can show ,  edit his information , add new user as admin or employee
+  and delete existed user by his user name.</h4>
 
 
 <p align="center">
-  <a href="/ScreenShots/7-admin-profile.png" title="screenShot-adminProfile">
-    <img src="/ScreenShots/7-admin-profile.png "width="80%" alt="screenShot-adminProfile"/>
+  <a href="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/7-admin-profile.png" title="screenShot-adminProfile">
+    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/7-admin-profile.png " width="100%" alt="screenShot-adminProfile"/>
   </a>
 </p>
 
 ----
- #### 7. Employee Profile : Here where employee can just show his information. 
+ <h4> 7. Employee Profile : Here where employee can just show his information. </h4>
 
 <p align="center">
-  <a href="/ScreenShots/8-employee-profile.png" title="screenShot-employeeProfile">
-    <img src="/ScreenShots/8-employee-profile.png" width="80%" alt="screenShot-employeeProfile"/>
+  <a href="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/8-employee-profile.png" title="screenShot-employeeProfile">
+    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/8-employee-profile.png" width="100%" alt="screenShot-employeeProfile"/>
   </a>
 </p>
 
@@ -112,49 +112,61 @@ particular document or  set of documents in the most efficient way possible.
 
 ## 🦋 Prerequisite
 
-- [MySQL](https://www.mysql.com/ "MySQL")  Installed
-
 - [PHP +7.3](https://www.php.net/ "PHP")  Installed
 
 - [Node.js +12.18](https://nodejs.org/en/ "NodeJS")  Installed
+
+- [MySQL](https://www.mysql.com/ "MySQL")  Installed
+
 
 ## 🛠️ Installation Steps
 
 1. Clone the repository
 
 ```Bash
-git clone https://gitlab.com/modar-projects/official-university-archive.git
+git clone https://github.com/modarAlkasem/official-university-archive.git
 ```
 
-2. Create new database named as 'ofa'
+2. Go to 'Back-end' folder and run 
+```Bash
+php composer
+```
+3. Create new database named as 'ofa'
 
-3. Import 'ofa.sql' file into created database
+4. Import 'ofa.sql' file into created database
 
-4. Change the working directory
+5. Create '.env' file and define the same environment variables in'.env.example' into it then put your data
+
+6. Go to 'Front-end' folder and run 
+```Bash
+npm install
+```
+
+7. Change the working directory
 
 ```Bash
 cd Back-end
 ```
 
-5. Run the project 
+8. Run the project 
 
 ```Bash
 php artisan serve
 ```
 
-6. Change the working directory
+9. Change the working directory
 
 ```Bash
 cd Front-end
 ```
 
-7. Run the project 
+10. Run the project 
 
 ```Bash
 npm start
 ```
 
-8. Read 'credentials.txt' file and Signin as admin or employee
+11. Read 'credentials.txt' file and Signin as admin or employee
 
 **🎇 You are Ready to Go!**
 
@@ -177,9 +189,9 @@ npm start
 
 **Modar Alkasem**
 
-- 🌌 [Profile](https://gitlab.com/modarAlkasem/ "Modar Alkasem")
+- 🌌 [Profile](https://github.com/modarAlkasem/ "Modar Alkasem")
 
-- 🏮 [Email](mailto:modarAlkasem@gmail.com?subject=Hi%20from%20official-university-archive "modarAlkasem@gmail.com")
+- 🏮 [Email](mailto:modarAlkasem@gmail.com?subject=Hi%20from%20official-university-archive "modaralkasem@gmail.com")
 
 
 

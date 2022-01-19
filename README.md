@@ -43,7 +43,7 @@ particular document or  set of documents in the most efficient way possible.
 
 <p align="center">
   <a href="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/1-signin.png" title="screenShot-signin">
-    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/1-signin.png " width="100%" alt="screenShot-signin"/>
+    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/1-signin.png" width="100%" alt="screenShot-signin"/>
   </a>
 </p>
 
@@ -53,7 +53,7 @@ particular document or  set of documents in the most efficient way possible.
 
 <p align="center">
   <a href="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/2-dashboard.png" title="screenShot-dashboard">
-    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/2-dashboard.png " width="100%" alt="screenShot-dashboard"/>
+    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/2-dashboard.png" width="100%" alt="screenShot-dashboard"/>
   </a>
 </p>
 
@@ -65,7 +65,7 @@ particular document or  set of documents in the most efficient way possible.
 
 <p align="center">
   <a href="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/4-scientific-body-docs.png" title="screenShot-categoryContent">
-    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/4-scientific-body-docs.png " width="100%" alt="screenShot-categoryContent"/>
+    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/4-scientific-body-docs.png" width="100%" alt="screenShot-categoryContent"/>
   </a>
 </p>
 
@@ -94,7 +94,7 @@ particular document or  set of documents in the most efficient way possible.
 
 <p align="center">
   <a href="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/7-admin-profile.png" title="screenShot-adminProfile">
-    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/7-admin-profile.png " width="100%" alt="screenShot-adminProfile"/>
+    <img src="https://raw.github.com/modarAlkasem/official-university-archive/main/ScreenShots/7-admin-profile.png" width="100%" alt="screenShot-adminProfile"/>
   </a>
 </p>
 

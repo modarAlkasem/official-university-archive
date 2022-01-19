@@ -191,7 +191,7 @@ npm start
 
 - 🌌 [Profile](https://github.com/modarAlkasem/ "Modar Alkasem")
 
-- 🏮 [Email](mailto:modarAlkasem@gmail.com?subject=Hi%20from%20official-university-archive "modaralkasem@gmail.com")
+- 🏮 [Email](mailto:modaralkasem@gmail.com?subject=Hi%20from%20official-university-archive "modaralkasem@gmail.com")
 
 
 
